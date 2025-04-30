@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --backgroun-color-title: #60a5fa;
+  --backgroun-color-mini-title: #1d4ed8;
+  --backgroun-color-site: #0f172a;
+  --line-color: #1e293b;
+  --text-secundary: #cbd5e1;
+  --text-detach: #f1f5f9;
+  --font-family: "Archivo", sans-serif;
+}
+
+body {
+  color: var(--text-detach);
+
+  background-color: black;
+  padding-left: 50px;
+  padding-right: 50px;
+}
